@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ## 💬 Ask me about
     -C/C++, Linux.
 ## 📫 How to reach me: 
-    -<a href="https://www.linkedin.com/in/china-brahma-3821401a4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-    -<a herf="www.linkedin.com/in/china-brahma-3821401a4">Linkedin</a>
-    -<a herf="www.brahmachina093@gmail.com">Gmail</a>
+<a href="https://www.linkedin.com/in/china-brahma-3821401a4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a herf="www.linkedin.com/in/china-brahma-3821401a4">Linkedin</a>
+<a herf="www.brahmachina093@gmail.com">Gmail</a>
 
 ## 😄 Pronouns: 
     -He/Him
