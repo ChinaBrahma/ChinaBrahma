@@ -1,6 +1,5 @@
-<p align="center">
-<img width="200" height="200" src="![Black Modern Gradient LinkedIn Banner](https://github.com/ChinaBrahma/ChinaBrahma/assets/64854147/b37098e3-3f8d-471f-9cb2-98513a816d26)" alt="my banner">
-</p>
+![Black Modern Gradient LinkedIn Banner](https://github.com/ChinaBrahma/ChinaBrahma/assets/64854147/b37098e3-3f8d-471f-9cb2-98513a816d26)
+
 <!--
 **ChinaBrahma/ChinaBrahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -9,15 +8,14 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on
     -Not Working
     -Recently completed College project on Des-File-Encryption using C++ library.
+    
 ## 🌱 I’m currently learning
-    -C/C++
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    -Linux
    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    -Dbms(mysql)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    
 ## 👯 I’m looking to collaborate on
     -C/C++ Projects
     -DevOps
