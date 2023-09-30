@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 [![China Brahma’s github stats](https://github-readme-stats.vercel.app/api?username=ChinaBrahma)](https://github.com/ChinaBrahma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinaBrahma&layout=compact)](https://github.com/ChinaBrahma)
+
+
+![An image of @chinabrahma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chinabrahma)](https://holopin.io/@chinabrahma
