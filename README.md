@@ -1,5 +1,5 @@
 ![Black Modern Gradient LinkedIn Banner](https://github.com/ChinaBrahma/ChinaBrahma/assets/64854147/b37098e3-3f8d-471f-9cb2-98513a816d26)
-[![GitHub Views](https://komarev.com/ghpvc/?username=ChinaBrahma&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=ChinaBrahma&color=FAC151)
 
 I am an aspiring software developer, learning to code and solve problems.
 <!--
