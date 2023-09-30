@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ## 💬 Ask me about
     -C/C++, Linux.
 ## 📫 How to reach me: 
-<a herf="www.linkedin.com/in/china-brahma-3821401a4"></a>
-<a herf="www.brahmachina093@gmail.com"> </a>
+    -<a herf="www.linkedin.com/in/china-brahma-3821401a4">Linkedin</a>
+<a herf="www.brahmachina093@gmail.com">Gmail</a>
 
 ## 😄 Pronouns: 
     -He/Him
