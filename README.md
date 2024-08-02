@@ -7,12 +7,9 @@ I am an aspiring software developer, learning to code and solve problems.
 Here are some ideas to get you started:
 -->
 ### About Me :
-## 🔭 I’m currently working on
-    -Not Working
-    -Recently completed College project on Des-File-Encryption using C++ library.
     
 ## 🌱 I’m currently learning
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
