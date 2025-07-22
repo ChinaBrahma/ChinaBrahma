@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm China Brahma</h1>
 <h3 align="center">A CS Student | Passionate about Systems, Web, and Open Source</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/chinabrahma/count.svg?" alt="profile views" />
-</div>
-
 ---
 
 ### 🧰 Languages & Tools
