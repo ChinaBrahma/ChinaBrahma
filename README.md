@@ -1,62 +1,74 @@
-<h1 align="center">Hi 👋, I'm China Brahma</h1>
-<h3 align="center">A CS Student | Passionate about Systems, Web, and Open Source</h3>
+<h1 align="center">China Brahma</h1>
+<h3 align="center">Computer Science Student | Systems & Web Development | Open Source</h3>
 
 ---
 
-### 🧰 Languages & Tools
+<h3 align="center">💻 Tech Stack</h3>
+<p align="center">Languages & Tools I use:</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/><br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/><br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/><br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/><br>React
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### 📊 GitHub Activity
+
+A snapshot of my recent activity and language usage.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinabrahma&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400px" alt="China Brahma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinabrahma&layout=compact&theme=dark&hide_border=true" width="400px" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Currently Exploring
+
+- **Rust** for robust systems programming.
+- **Node.js** to build scalable backend services.
+- Actively seeking opportunities in **open source projects**.
+
+---
+
+### 👋 Get in Touch
+
+I'm always open to discussing new ideas and collaborating. Feel free to connect with me.
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-</div>
-
----
-
-### 🔗 Connect with me
-
-<div align="left">
   <a href="https://www.linkedin.com/in/chinabrahma" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:chinabrahma@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinabrahma&show_icons=true&theme=radical" alt="China Brahma's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinabrahma&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinabrahma&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-### 🐍 Contributions Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/chinabrahma/chinabrahma/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 🧭 Currently Exploring
-- Systems Programming in **Rust**
-- Full Stack Projects using **React + Node.js**
-- Contributions to **Open Source Projects**
-
----
-
-### ✨ Let's Collaborate!
-I love building, learning, and collaborating on projects. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chinabrahma) or [Email](mailto:chinabrahma@gmail.com).
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chinabrahma/chinabrahma/output/snake.svg" alt="Snake animation of my contributions" />
+</p>
