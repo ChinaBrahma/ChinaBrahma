@@ -1,5 +1,5 @@
 <h1 align="center">China Brahma</h1>
-<h3 align="center">Computer Science Student | Systems & Web Development | Open Source</h3>
+<h4 align="center">MCA'26 National Institute of Technology, Jamshedpur, India</h4>
 
 ---
 
@@ -51,6 +51,7 @@ A snapshot of my recent activity and language usage.
 - **Rust** for robust systems programming.
 - **Node.js** to build scalable backend services.
 - Actively seeking opportunities in **open source projects**.
+- Transitioning to Deep Learning.
 
 ---
 
