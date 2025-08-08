@@ -32,18 +32,6 @@
   </tr>
 </table>
 
-
----
-
-### 📊 GitHub Activity
-
-A snapshot of my recent activity and language usage.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinabrahma&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400px" alt="China Brahma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinabrahma&layout=compact&theme=dark&hide_border=true" width="400px" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🚀 Currently Exploring
