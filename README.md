@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+<!-- <h3 align="center">💻 Tech Stack</h3>
 <p align="center">Languages & Tools I use:</p>
 
 <table align="center">
@@ -32,7 +32,7 @@
   </tr>
 </table>
 
----
+--- -->
 
 ### 🚀 Currently Exploring
 
@@ -58,6 +58,6 @@ I'm always open to discussing new ideas and collaborating. Feel free to connect 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/chinabrahma/chinabrahma/output/snake.svg" alt="Snake animation of my contributions" />
-</p>
+</p> -->
